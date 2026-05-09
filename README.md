@@ -1,4 +1,4 @@
-# COMP-5830 - Cybersecurity Threats and Countermeasuress
+# COMP-5830 - Cybersecurity Threats and Countermeasures
 
 ## University
 
